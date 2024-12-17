@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import FileUpload from './components/FileUpload.vue';
+import FileUpload from './components/fileUpload.vue';
 
 export default {
   name: 'App',
